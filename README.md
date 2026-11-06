@@ -2,8 +2,6 @@
 
 <p align="start">Backend developer</p>
 <p align="left">
-  <a href="https://t.me/alwayswannafly9">
-    <img src="https://img.shields.io/badge/Telegram-@alwayswannafly9-26A5E4?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
